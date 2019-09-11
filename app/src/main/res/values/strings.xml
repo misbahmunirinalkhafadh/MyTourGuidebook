@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyTourGuidebook</string>
+    <string name="city">D.I. Yogyakarta</string>
+    <string name="country">Indonesia</string>
+    <string name="list_wisata">List Wisata</string>
+    <string name="title">Title</string>
+    <string name="summary">Lorem ipsum dolor sit amet, bnconsectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore</string>
+    <string name="location">Lokasi</string>
+    <string name="description">\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipex  ea commodo consequat.
+    \n \t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipex  ea commodo consequat.</string>
+    <string name="posted">Updated,</string>
+    <string name="posted_time">3 month ago</string>
+    <string name="by">by</string>
+    <string name="posted_by">Admin</string>
+    <string name="user_alamat">Jakarta Barat, Jakarta, Indonesia</string>
+    <string name="user_telp">089636322365</string>
+    <string name="user_email">alkhafadh.misbah10@gmail.com</string>
+    <string name="my_profile">My Profile</string>
+    <string name="nomor_telepone">Nomor telepone</string>
+    <string name="informasi">Informasi</string>
+    <string name="my_name">Misbah Munirin Alkhafadh</string>
+    <string name="address">Alamat</string>
+    <string name="email">E-mail</string>
+</resources>

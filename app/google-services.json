@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594875219192",
+    "firebase_url": "https://mytourguidebook.firebaseio.com",
+    "project_id": "mytourguidebook",
+    "storage_bucket": "mytourguidebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594875219192:android:89f03e51a8a4c548",
+        "android_client_info": {
+          "package_name": "com.dikoding.picodiploma.mytourguidebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594875219192-rmcdeesrskhfcocn62eme6uedsg8g309.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dikoding.picodiploma.mytourguidebook",
+            "certificate_hash": "01e0f162427a9a8755d7f57253f938784c99489e"
+          }
+        },
+        {
+          "client_id": "594875219192-tdopu0voeelfahbujga6c0v728c26o3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvEkrbDGB_MlKwHQ08KksqinPs9VApe70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594875219192-tdopu0voeelfahbujga6c0v728c26o3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
